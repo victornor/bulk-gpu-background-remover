@@ -106,6 +106,23 @@ python bulk_remove_bg.py /path/to/photos /path/to/output
 # Output saved to: /path/to/output
 ```
 
+## Examples
+
+Here are some example results from the background removal process:
+
+<table>
+  <tr>
+    <td><img src="images/img1.png" alt="Example 1" width="200"/></td>
+    <td><img src="images/img2.png" alt="Example 2" width="200"/></td>
+    <td><img src="images/img3.png" alt="Example 3" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/img4.png" alt="Example 4" width="200"/></td>
+    <td><img src="images/img5.png" alt="Example 5" width="200"/></td>
+    <td><img src="images/img6.png" alt="Example 6" width="200"/></td>
+  </tr>
+</table>
+
 ## License
 
 MIT License - feel free to use and modify as needed.
